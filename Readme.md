@@ -1,6 +1,6 @@
 # Project Title
 
-This is an ready to use Recipie sharing platform api where a user can upload there new unique ideas in this platform where the user can read and cook as per recepie and if they like the recepie they'll give comment and like 
+This is an ready to use Recipe sharing platform api where a user can upload there new unique ideas in this platform where the user can read and cook as per recepie and if they like the recepie they'll give comment and like 
 (e.g. "A fast, minimal Library Management REST API built with Express and MongoDB.")
 
 ## Features
