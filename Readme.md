@@ -32,7 +32,7 @@ This is an ready to use Recipie sharing platform api where a user can upload the
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/pandabs98/recepie-sharing-api.git
+cd recepie sharing
 npm install
 npm run dev
