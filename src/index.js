@@ -10,5 +10,5 @@ connectDB().then(()=>{
         console.log(`Server is running on http://localhost:${port}`)
     })
 }).catch((error)=>{
-    console.error("Unable to connect to the server",error)
+    console.error("Mongodb connection failed",error)
 })
