@@ -1,0 +1,35 @@
+{
+  "name": "recepie-sharing-api",
+  "version": "1.0.0",
+  "description": "This is an ready to use Recepie sharing platform api where a user can upload there new unique ideas in this platform where the user can read and cook as per recepie and if they like the recepie they'll give comment and like \r (e.g. \"A fast, minimal Library Management REST API built with Express and MongoDB.\")",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js",
+    "dev": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandabs98/recepie-sharing-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandabs98/recepie-sharing-api/issues"
+  },
+  "homepage": "https://github.com/pandabs98/recepie-sharing-api#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
