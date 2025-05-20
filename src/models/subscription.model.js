@@ -6,7 +6,7 @@ const subcriptionSchema = new mongoose.Schema({
         type: mongoose.Schema.Types.ObjectId,
         ref: "User"
     },
-    creator:{
+    channel:{
         type: mongoose.Schema.Types.ObjectId,
         ref:"User"
     }
